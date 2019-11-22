@@ -17,7 +17,7 @@
 
 ```shell
 # Clone the simple-dev branch which does not include db and social sign-in stuff
-git clone https://github.com/yogaboll/react-kanban.git -b simple-dev
+git clone https://github.com/dewalker07/react-fractal.git
 
 cd react-fractal
 
